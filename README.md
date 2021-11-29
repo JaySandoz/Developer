@@ -1,2 +1,2 @@
 # Developer
-Home folder for projects
+Home dev folder for new Ubuntu system
